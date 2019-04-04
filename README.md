@@ -36,4 +36,4 @@ The 'clusters_labeling' function uses nested functions to compute the standard d
 The point-process transformation in fMRI data was first described and developed in
 - Tagliazucchi, E., Balenzuela, P., Fraiman, D., & Chialvo, D. R. (2012). Criticality in large-scale brain fMRI dynamics unveiled by a novel point process analysis. Frontiers in physiology, 3, 15.
 
-The codes and functions uploaded in this repository are an update to apply in
+The codes and functions uploaded in this repository are an update to apply in https://github.com/HBocaccio/Avalanches_Sleep_fMRI_2019
