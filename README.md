@@ -33,7 +33,7 @@ The 'clusters_labeling' function uses nested functions to compute the standard d
 
 ### How to cite:
 The source code corresponds to the article
-- Bocaccio H., Pallavicini C., Castro M. N., Sánchez S. M., De Pino G., Laufs H., Villarreal M. F. & Tagliazucchi E. (2019). The avalanche-like behaviour of large-scale haemodynamic activity from wakefulness to deep sleep. Journal of the Royal Society Interface, 16(158), 20190262. DOI: http://doi.org/10.1098/rsif.2019.0262.
+- Bocaccio H., Pallavicini C., Castro M. N., Sánchez S. M., De Pino G., Laufs H., Villarreal M. F. & Tagliazucchi E. (2019). The avalanche-like behaviour of large-scale haemodynamic activity from wakefulness to deep sleep. Journal of the Royal Society Interface, 16 (158), 20190262. DOI: http://doi.org/10.1098/rsif.2019.0262.
 
 The point-process transformation in fMRI data was first described and developed in
 - Tagliazucchi, E., Balenzuela, P., Fraiman, D., & Chialvo, D. R. (2012). Criticality in large-scale brain fMRI dynamics unveiled by a novel point process analysis. Frontiers in physiology, 3, 15.
