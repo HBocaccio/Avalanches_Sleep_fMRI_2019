@@ -32,6 +32,8 @@ BOLD signals were phase shuffled to construct null models using signals that con
 The 'clusters_labeling' function uses nested functions to compute the standard deviation of 4D data ('std_4D'), z-score normalization of 4D data ('zscore_4D'), and single-index target from 3D position ('get_position'). This functions were also included in the repository as secondary functions, allowing to apply them beyond clusters detection and labeling, and also making easy the manually run of function by sections.
 
 ### How to cite:
+The source code corresponds to the article
+- Bocaccio H., Pallavicini C., Castro M. N., Sánchez S. M., De Pino G., Laufs H., Villarreal M. F. & Tagliazucchi E. (2019). The avalanche-like behaviour of large-scale haemodynamic activity from wakefulness to deep sleep. Journal of the Royal Society Interface, 16(158), 20190262. DOI: http://doi.org/10.1098/rsif.2019.0262.
 
 The point-process transformation in fMRI data was first described and developed in
 - Tagliazucchi, E., Balenzuela, P., Fraiman, D., & Chialvo, D. R. (2012). Criticality in large-scale brain fMRI dynamics unveiled by a novel point process analysis. Frontiers in physiology, 3, 15.
