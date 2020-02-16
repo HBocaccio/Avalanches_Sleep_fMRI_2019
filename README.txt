@@ -36,3 +36,4 @@ The point-process transformation in fMRI data was first described and developed 
 - Tagliazucchi, E., Balenzuela, P., Fraiman, D., & Chialvo, D. R. (2012). Criticality in large-scale brain fMRI dynamics unveiled by a novel point process analysis. Frontiers in physiology, 3, 15.
 
 The codes and functions updated could be found in https://github.com/HBocaccio/Avalanches_Sleep_fMRI_2019
+
